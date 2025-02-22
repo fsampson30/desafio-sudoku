@@ -1,8 +1,8 @@
 package tabuleiro;
 
-public final class Tabuleiro {
+public final class TabuleiroModelo {
 
-    private Tabuleiro() {}
+    private TabuleiroModelo() {}
 
     public final static String MODELO_TABULEIRO =
                 """
